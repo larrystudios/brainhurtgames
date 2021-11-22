@@ -11,9 +11,19 @@ We currently support the following versions on `Brain Hurt Games Classic Edition
 | < 2.0         | Soon Unsupported   | 18 Sep 2020       | 31 Dec 2021    |
 
 We currently support the following versions on `Brain Hurt Games Plus` :
- 
+
+| Version       | Status             | Support Starts    | Support Ends   |
+| ------------- | ------------------ | ----------------- | -------------- |
+| Beta          | Supported          | 1 Nov 2021        | 31 Dec 2022    |
+
+We currently support the following versions on `Brain Hurt Games PDF Edition` :
+
+| Version       | Status             | Support Starts    | Support Ends   |
+| ------------- | ------------------ | ----------------- | -------------- |
+| 1.0.x         | Supported          | 1 Nov 2021        | 31 Dec 2022    |
+
 ## Reporting a Bug
 
 To report a bug, please [open an issue](https://github.com/larrystudios/brainhurtgames/issues/new). Describe the bug, try to give as much information as possible.
 
-The bug will be fixed in 15 days after posting the issue, although some bugs cannot be fix
+The bug will be fixed in 15 days after posting the issue, although some bugs cannot be fixed.
