@@ -18,7 +18,7 @@ We currently support the following versions on `Brain Hurt Games Plus` :
 
 | Version       | Status             | Support Starts    | Support Ends   |
 | ------------- | ------------------ | ----------------- | -------------- |
-| Beta          | Supported          | 1 Nov 2021        | 31 Dec 2022    |
+| Beta          | Supported          | 1 Nov 2021        | 31 Mar 2023    |
 
 ### Brain Hurt Games PDF Edition
 
