@@ -8,7 +8,7 @@ For Brain Hurt Games Plus releases, please go to the [**𝚋𝚛𝚊𝚒𝚗𝚑
 
 |Previous Version|Current Version|Next version|
 |-|-|-|
-[![Previous](https://img.shields.io/badge/Previous%20Version-v2.5.0‒beta.8-yellow.svg)](https://github.com/larrystudios/brainhurtgames)|[![Current](https://img.shields.io/badge/Current%20Version-v2.5.0‒beta.9-brightgreen.svg)](https://github.com/larrystudios/brainhurtgames)|[![Next](https://img.shields.io/badge/Next%20Version-v2.5.0‒beta.10-blue.svg)](https://github.com/larrystudios/brainhurtgames)
+[![Previous](https://img.shields.io/badge/Previous%20Version-v2.5.0‒beta.8-yellow.svg)](https://github.com/larrystudios/brainhurtgames#brain-hurt-games-repository)|[![Current](https://img.shields.io/badge/Current%20Version-v2.5.)|[![Next](https://img.shields.io/badge/Next%20Version-v2.5.0‒beta.10-blue.svg)](https://github.com/larrystudios/brainhurtgames)
 
 <br>
 
