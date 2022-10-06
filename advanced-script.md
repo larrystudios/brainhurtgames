@@ -27,11 +27,11 @@ photolocation[_,_/10] Randomize the photo location but set the photo to the size
 
 textlocation[80,80/\_] Randomize the photo size but set the location to x80,y80
 
-textstyle[Arial,20] make the fonts Arial and make the size 20
+textstyle[Arial,20] make the font Arial and make the size 20 px
 
 ans’1’[0,0/10] set the size and location of the answer 1
 
-ans[\_,20] set the size of the answer to be 20
+ans[\_,20] set the size of the answer text to be 20 px
 
 
 
