@@ -32,4 +32,4 @@ We currently support the following versions on `Brain Hurt Games PDF Edition` :
 
 To report a bug, please [open an issue](https://github.com/larrystudios/brainhurtgames/issues/new). Describe the bug, try to give as much information as possible.
 
-The bug will be fixed in 15 days after posting the issue, although some bugs cannot be fixed.
+The bug will be fixed within 15 days after posting the issue, although some bugs cannot be fixed.
