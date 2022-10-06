@@ -8,8 +8,8 @@ We currently support the following versions on `Brain Hurt Games Classic Edition
 
 | Version       | Status             | Support Starts    | Support Ends   |
 | ------------- | ------------------ | ----------------- | -------------- |
-| > 2.4         | Supported          | 25 Oct 2021       | 31 Dec 2022    |
-| 2.0.x - 2.4.x | Supported          | 1 Oct 2020        | 30 Jun 2022    |
+| 2.5.0         | Supported          | 25 Oct 2021       | 31 Dec 2022    |
+| 2.0.x - 2.4.x | Unsupported        | 1 Oct 2020        | 30 Jun 2022    |
 | < 2.0         | Unsupported        | 18 Sep 2020       | 31 Dec 2021    |
 
 ### Brain Hurt Games Plus
