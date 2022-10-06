@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Describe the bug**
-A description of what the bug is.
+A description of what the bug does.
 
 **To Reproduce**
 Steps to reproduce the bug:
@@ -19,11 +19,14 @@ Steps to reproduce the bug:
 **Expected behavior**
 A description of what you expected to happen.
 
+**Actual Behavior**
+A description of what actually happened.
+
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
 **Information (please complete the following information):**
- - OS: [e.g. iOS 15]
+ - OS: [e.g. iOS 16]
  - Edition [e.g. Classic, PDF, Plus]
  - Version [e.g. 2.5.0]
 
