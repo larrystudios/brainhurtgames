@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a bug report to help us improve
+about: Create a bug report to help us improve our games!
 title: Bug Report
 labels: bug
 assignees: ''
@@ -28,7 +28,7 @@ If applicable, add screenshots to help explain your problem.
 **Information (please complete the following information):**
  - OS: [e.g. iOS 16]
  - Edition [e.g. Classic, PDF, Plus]
- - Version [e.g. 2.5.0]
+ - Version [e.g. 3.0.0]
 
 **Additional context**
 Add any other context about the problem here.
