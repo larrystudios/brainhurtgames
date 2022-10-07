@@ -1,8 +1,8 @@
 ---
 name: Brain Hurt Games PLUS New Question Request Template
 about: This template is used for Brain Hurt Games PLUS question requests.
-title: Brain Hurt Games PLUS question request
-labels: new question
+title: Question request for Brain Hurt Games PLUS
+labels: BrainHurtPlus, new question
 assignees: ''
 
 ---
@@ -19,4 +19,4 @@ Username or Name : (Enter your name, it’s that simple)
 
 Learn more about Advanced Script : https://github.com/larrystudios/brainhurtgames/blob/master/advanced-script.md
 
-Note : You may attach a photo or a drawing with the issue, if you can’t attach it please contact KornLS#3384 on Discord, or open another issue.
+Note : You may attach a photo or a drawing with the issue. If you can’t attach it, please try again by copying the information you wrote, before reloading the page.

@@ -1,8 +1,8 @@
 ---
 name: Brain Hurt Games New Question Request Template
 about: This template is used for Brain Hurt Games question requests.
-title: Question Request for Brain Hurt Games
-labels: new question
+title: Question request for Brain Hurt Games
+labels: BrainHurtGames, new question
 assignees: ''
 
 ---
@@ -14,4 +14,4 @@ Answer 3 : (Answer 3 Here, if you want.)
 Correct : (Choose 1/2/3)
 Difficulty : (Easy / Normal / Hard / Insane / Crazy / Impossible)
 
-Note : You may attach a photo or a drawing with the issue, if you can’t attach it please contact KornLS#3384 on Discord, or open another issue.
+Note : You may attach a photo or a drawing with the issue. If you can’t attach it, please try again by copying the information you wrote, before reloading the page.
